@@ -1,3 +1,3 @@
 # github-actions-practice
 
-Hello Mortals
+Just some random texts
