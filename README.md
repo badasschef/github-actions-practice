@@ -1,3 +1,3 @@
 # github-actions-practice
 
-Hello World
+Hello Mortals
